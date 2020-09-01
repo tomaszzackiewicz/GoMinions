@@ -1,3 +1,0 @@
-C:\Users\Tomasz\Documents\Unreal Projects\MyProject2\Source\MyProject2\MyProject2.Build.cs
-C:\Users\Tomasz\Documents\Unreal Projects\MyProject2\Source\MyProject2.Target.cs
-C:\Users\Tomasz\Documents\Unreal Projects\MyProject2\Source\MyProject2Editor.Target.cs
